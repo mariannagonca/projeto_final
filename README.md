@@ -1,6 +1,6 @@
-# ProjetoVISMapaSubparks
+# Projeto_VIS_Integracao
 
-https://observablehq.com/@airton-neto/projetovismapasubparks@183
+https://observablehq.com/@airton-neto/projeto_vis_integracao@454
 
 View this notebook in your browser by running a web server in this folder. For
 example:
@@ -14,14 +14,14 @@ import this module directly into your application. To npm install:
 
 ~~~sh
 npm install @observablehq/runtime@4
-npm install https://api.observablehq.com/@airton-neto/projetovismapasubparks@183.tgz?v=3
+npm install https://api.observablehq.com/@airton-neto/projeto_vis_integracao@454.tgz?v=3
 ~~~
 
 Then, import your notebook and the runtime as:
 
 ~~~js
 import {Runtime, Inspector} from "@observablehq/runtime";
-import define from "@airton-neto/projetovismapasubparks";
+import define from "@airton-neto/projeto_vis_integracao";
 ~~~
 
 To log the value of the cell named “foo”:
